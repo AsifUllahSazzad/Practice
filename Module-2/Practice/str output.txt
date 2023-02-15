@@ -1,0 +1,3 @@
+Floting Output: 3.14
+t Character delete: I love Bangladesh
+Middle Character delete: I loe Bangladesh

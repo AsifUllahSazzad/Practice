@@ -1,0 +1,4 @@
+Integer: 23
+Character: C
+Floating: 3.1416
+Double: 27.432
